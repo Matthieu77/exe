@@ -68,3 +68,31 @@ ar $FOOTABLE = $FOOTABLE || {};
 jQuery(function($) {
 	$FOOTABLE.init();
 });
+
+<style type="text/css"></style>
+
+<style type="text/css">
+.synved-social-resolution-single {
+display: inline-block;
+}
+.synved-social-resolution-normal {
+display: inline-block;
+}
+.synved-social-resolution-hidef {
+display: none;
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2),
+only screen and (min-resolution: 2dppx),
+only screen and (min-resolution: 192dpi) {
+	.synved-social-resolution-normal {
+	display: none;
+	}
+	.synved-social-resolution-hidef {
+	display: inline-block;
+	}
+}
+</style>

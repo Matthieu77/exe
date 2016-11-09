@@ -52,3 +52,19 @@
 <meta name="DC.Title" content="Our Most Advanced Penetration Testing Distribution, Ever." ><meta name="DC.Creator" content="" ><meta name="DC.Description" content="(...)" ><meta name="DC.Date" content="2015-02-05 13:51:30" ><meta name="DC.Type" content="Article" ><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.kali.org/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://www.kali.org/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><script type="text/javascript">/* FooTable init code */
 
+ar $FOOTABLE = $FOOTABLE || {};
+(function( $FOOTABLE, $, undefined ) {
+
+	jQuery.fn.attrAppendWithComma=function(a,b){var c;return this.each(function(){c=$(this),void 0!==c.attr(a)&&""!=c.attr(a)?c.attr(a,c.attr(a)+","+b):c.attr(a,b)})};jQuery.fn.footableAttr=function(a,b){return this.each(function(){var c=$(this);c.data("auto-columns")!==!1&&(c.find("thead th:gt("+a+")").attrAppendWithComma("data-hide","tablet"),c.find("thead th:gt("+b+")").attrAppendWithComma("data-hide","phone"))})},jQuery.fn.footableFilter=function(a){return this.each(function(){var b=$(this);b.data("filter")||b.data("filter")===!1||b.data("filter-text-only","true").before('<div class="footable-filter-container"><input placeholder="'+a+'" style="float:right" type="text" class="footable-filter" /></div>')})},jQuery.fn.footablePager=function(){return this.each(function(){var a=$(this);if(a.data("page")!==!1){var b=$('<tfoot class="hide-if-no-paging"><tr><td><div class="pagination pagination-centered"></div></td></tr></tfoot>');b.find("td").attr("colspan",a.find("thead th").length),a.find("tbody:last").after(b)}})};
+
+	$FOOTABLE.init = function() {
+		$("footable")
+			.footableAttr(3,1)
+			.footable( { breakpoints: { phone: 320, tablet: 768 } });
+
+	};
+}( $FOOTABLE, jQuery ));
+
+jQuery(function($) {
+	$FOOTABLE.init();
+});

@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html class="" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+
+		<title>Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution</title>
+
+	
+<!-- All in One SEO Pack 2.3.11 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="description"  content="Home of Kali Linux, an Advanced Penetration Testing Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments." />
+
+<link rel="canonical" href="https://www.kali.org/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//ws.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Kali Linux &raquo; Feed" href="https://www.kali.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Kali Linux &raquo; Comments Feed" href="https://www.kali.org/comments/feed/" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<meta name="og:title" content="Our Most Advanced Penetration Testing Distribution, Ever.">
+<meta name="og:type" content="website">
+<meta name="og:url" content="https://www.kali.org/">
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.kali.org/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='us-font-1-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A300%2C400%2C700&#038;subset=latin&#038;ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='us-font-2-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin&#038;ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='us-gravityforms-css'  href='//www.kali.org/wp-content/themes/Impreza/css/us.gravityforms.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='us-base-css'  href='//www.kali.org/wp-content/themes/Impreza/framework/css/us-base.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='us-font-awesome-css'  href='//www.kali.org/wp-content/themes/Impreza/framework/css/font-awesome.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='us-font-mdfi-css'  href='//www.kali.org/wp-content/themes/Impreza/framework/css/font-mdfi.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='us-style-css'  href='//www.kali.org/wp-content/themes/Impreza/css/style.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='us-responsive-css'  href='//www.kali.org/wp-content/themes/Impreza/css/responsive.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='footable-core-min-css'  href='https://www.kali.org/wp-content/plugins/footable/css/footable.core.min.css?ver=0.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='footable-standalone-min-css'  href='https://www.kali.org/wp-content/plugins/footable/css/footable.standalone.min.css?ver=0.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='https://www.kali.org/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='codecolorer-css'  href='https://www.kali.org/wp-content/plugins/codecolorer/codecolorer.css?ver=0.9.9' type='text/css' media='screen' />
+<script type='text/javascript' src='https://www.kali.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.kali.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.kali.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6' defer='defer'></script>
+<script type='text/javascript' src='https://www.kali.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6' defer='defer'></script>
+<script id='st_insights_js' type='text/javascript' src='https://ws.sharethis.com/button/st_insights.js?publisher=eba0f3ba-f9ab-408c-bc68-c28af5afe749&#038;product=feather'></script>
+<script type='text/javascript' src='https://www.kali.org/wp-content/plugins/footable/js/footable.min.js?ver=0.3.1'></script>
+<link rel='https://api.w.org/' href='https://www.kali.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.kali.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.kali.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+<link rel='shortlink' href='https://www.kali.org/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.kali.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kali.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.kali.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kali.org%2F&#038;format=xml" />
+<meta name="DC.Title" content="Our Most Advanced Penetration Testing Distribution, Ever." ><meta name="DC.Creator" content="" ><meta name="DC.Description" content="(...)" ><meta name="DC.Date" content="2015-02-05 13:51:30" ><meta name="DC.Type" content="Article" ><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.kali.org/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://www.kali.org/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><script type="text/javascript">/* FooTable init code */
+
